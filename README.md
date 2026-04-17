@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/junaidkm/Leet-Solutions/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/junaidkm/Leet-Solutions/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
