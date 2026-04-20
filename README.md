@@ -13,15 +13,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/junaidkm/Leet-Solutions/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/junaidkm/Leet-Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/junaidkm/Leet-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/junaidkm/Leet-Solutions/tree/master/2469-convert-the-temperature) |
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/junaidkm/Leet-Solutions/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/junaidkm/Leet-Solutions/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/junaidkm/Leet-Solutions/tree/master/2413-smallest-even-multiple) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/junaidkm/Leet-Solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
