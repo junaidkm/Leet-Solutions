@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/junaidkm/Leet-Solutions/tree/master/0001-two-sum) |
 | [1929-concatenation-of-array](https://github.com/junaidkm/Leet-Solutions/tree/master/1929-concatenation-of-array) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/junaidkm/Leet-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3028-ant-on-the-boundary](https://github.com/junaidkm/Leet-Solutions/tree/master/3028-ant-on-the-boundary) |
 ## Hash Table
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/junaidkm/Leet-Solutions/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/junaidkm/Leet-Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/junaidkm/Leet-Solutions/tree/master/2413-smallest-even-multiple) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/junaidkm/Leet-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/junaidkm/Leet-Solutions/tree/master/2469-convert-the-temperature) |
 ## Simulation
 |  |
