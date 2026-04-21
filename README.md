@@ -33,9 +33,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/junaidkm/Leet-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0412-fizz-buzz](https://github.com/junaidkm/Leet-Solutions/tree/master/0412-fizz-buzz) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3028-ant-on-the-boundary](https://github.com/junaidkm/Leet-Solutions/tree/master/3028-ant-on-the-boundary) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/junaidkm/Leet-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/junaidkm/Leet-Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
