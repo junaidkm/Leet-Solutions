@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/junaidkm/Leet-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0412-fizz-buzz](https://github.com/junaidkm/Leet-Solutions/tree/master/0412-fizz-buzz) |
+| [1108-defanging-an-ip-address](https://github.com/junaidkm/Leet-Solutions/tree/master/1108-defanging-an-ip-address) |
 ## Prefix Sum
 |  |
 | ------- |
