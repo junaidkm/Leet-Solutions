@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/junaidkm/Leet-Solutions/tree/master/0009-palindrome-number) |
+| [0367-valid-perfect-square](https://github.com/junaidkm/Leet-Solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/junaidkm/Leet-Solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/junaidkm/Leet-Solutions/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/junaidkm/Leet-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/junaidkm/Leet-Solutions/tree/master/2833-furthest-point-from-origin) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/junaidkm/Leet-Solutions/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
