@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/junaidkm/Leet-Solutions/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/junaidkm/Leet-Solutions/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/junaidkm/Leet-Solutions/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/junaidkm/Leet-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1952-three-divisors](https://github.com/junaidkm/Leet-Solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/junaidkm/Leet-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
