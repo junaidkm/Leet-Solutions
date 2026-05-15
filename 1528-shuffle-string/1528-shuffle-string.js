@@ -4,10 +4,9 @@
  * @return {string}
  */
 var restoreString = function(s, indices) {
-
     let ans = [];
 
-    for(let i = 0; i < s.length; i++){
+    for (let i = 0; i < s.length; i++) {
         ans[indices[i]] = s[i];
     }
 
