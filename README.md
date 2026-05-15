@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/junaidkm/Leet-Solutions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/junaidkm/Leet-Solutions/tree/master/0657-robot-return-to-origin) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/junaidkm/Leet-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/junaidkm/Leet-Solutions/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/junaidkm/Leet-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2974-minimum-number-game](https://github.com/junaidkm/Leet-Solutions/tree/master/2974-minimum-number-game) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/junaidkm/Leet-Solutions/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/junaidkm/Leet-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1816-truncate-sentence](https://github.com/junaidkm/Leet-Solutions/tree/master/1816-truncate-sentence) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/junaidkm/Leet-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2833-furthest-point-from-origin](https://github.com/junaidkm/Leet-Solutions/tree/master/2833-furthest-point-from-origin) |
 ## Prefix Sum
 |  |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/junaidkm/Leet-Solutions/tree/master/0367-valid-perfect-square) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/junaidkm/Leet-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
