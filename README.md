@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/junaidkm/Leet-Solutions/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/junaidkm/Leet-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3099-harshad-number](https://github.com/junaidkm/Leet-Solutions/tree/master/3099-harshad-number) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/junaidkm/Leet-Solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Simulation
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/junaidkm/Leet-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2974-minimum-number-game](https://github.com/junaidkm/Leet-Solutions/tree/master/2974-minimum-number-game) |
 | [3028-ant-on-the-boundary](https://github.com/junaidkm/Leet-Solutions/tree/master/3028-ant-on-the-boundary) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/junaidkm/Leet-Solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Number Theory
 |  |
 | ------- |
