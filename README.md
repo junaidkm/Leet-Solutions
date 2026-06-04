@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/junaidkm/Leet-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/junaidkm/Leet-Solutions/tree/master/0009-palindrome-number) |
 | [0367-valid-perfect-square](https://github.com/junaidkm/Leet-Solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/junaidkm/Leet-Solutions/tree/master/0412-fizz-buzz) |
@@ -109,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/junaidkm/Leet-Solutions/tree/master/0605-can-place-flowers) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/junaidkm/Leet-Solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/junaidkm/Leet-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
