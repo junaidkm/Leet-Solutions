@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/junaidkm/Leet-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/junaidkm/Leet-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/junaidkm/Leet-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2706-buy-two-chocolates](https://github.com/junaidkm/Leet-Solutions/tree/master/2706-buy-two-chocolates) |
 | [2974-minimum-number-game](https://github.com/junaidkm/Leet-Solutions/tree/master/2974-minimum-number-game) |
 | [3028-ant-on-the-boundary](https://github.com/junaidkm/Leet-Solutions/tree/master/3028-ant-on-the-boundary) |
 ## Hash Table
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2706-buy-two-chocolates](https://github.com/junaidkm/Leet-Solutions/tree/master/2706-buy-two-chocolates) |
 | [2974-minimum-number-game](https://github.com/junaidkm/Leet-Solutions/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/junaidkm/Leet-Solutions/tree/master/0605-can-place-flowers) |
+| [2706-buy-two-chocolates](https://github.com/junaidkm/Leet-Solutions/tree/master/2706-buy-two-chocolates) |
 ## Linked List
 |  |
 | ------- |
