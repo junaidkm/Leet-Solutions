@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/junaidkm/Leet-Solutions/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/junaidkm/Leet-Solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/junaidkm/Leet-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/junaidkm/Leet-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/junaidkm/Leet-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/junaidkm/Leet-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2706-buy-two-chocolates](https://github.com/junaidkm/Leet-Solutions/tree/master/2706-buy-two-chocolates) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/junaidkm/Leet-Solutions/tree/master/0001-two-sum) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/junaidkm/Leet-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Math
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/junaidkm/Leet-Solutions/tree/master/0657-robot-return-to-origin) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/junaidkm/Leet-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/junaidkm/Leet-Solutions/tree/master/1929-concatenation-of-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/junaidkm/Leet-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/junaidkm/Leet-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2974-minimum-number-game](https://github.com/junaidkm/Leet-Solutions/tree/master/2974-minimum-number-game) |
 | [3028-ant-on-the-boundary](https://github.com/junaidkm/Leet-Solutions/tree/master/3028-ant-on-the-boundary) |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/junaidkm/Leet-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2706-buy-two-chocolates](https://github.com/junaidkm/Leet-Solutions/tree/master/2706-buy-two-chocolates) |
 | [2974-minimum-number-game](https://github.com/junaidkm/Leet-Solutions/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
