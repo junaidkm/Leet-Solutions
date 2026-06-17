@@ -136,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/junaidkm/Leet-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/junaidkm/Leet-Solutions/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/junaidkm/Leet-Solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
