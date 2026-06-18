@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/junaidkm/Leet-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/junaidkm/Leet-Solutions/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/junaidkm/Leet-Solutions/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/junaidkm/Leet-Solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/junaidkm/Leet-Solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/junaidkm/Leet-Solutions/tree/master/0507-perfect-number) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/junaidkm/Leet-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/junaidkm/Leet-Solutions/tree/master/0070-climbing-stairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/junaidkm/Leet-Solutions/tree/master/0191-number-of-1-bits) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/junaidkm/Leet-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
