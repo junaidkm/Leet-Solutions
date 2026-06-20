@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/junaidkm/Leet-Solutions/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/junaidkm/Leet-Solutions/tree/master/0035-search-insert-position) |
 | [0605-can-place-flowers](https://github.com/junaidkm/Leet-Solutions/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/junaidkm/Leet-Solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/junaidkm/Leet-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/junaidkm/Leet-Solutions/tree/master/0035-search-insert-position) |
 | [0367-valid-perfect-square](https://github.com/junaidkm/Leet-Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/junaidkm/Leet-Solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/junaidkm/Leet-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
