@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/junaidkm/Leet-Solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/junaidkm/Leet-Solutions/tree/master/0268-missing-number) |
 | [0605-can-place-flowers](https://github.com/junaidkm/Leet-Solutions/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/junaidkm/Leet-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/junaidkm/Leet-Solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/junaidkm/Leet-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-shuffle-string](https://github.com/junaidkm/Leet-Solutions/tree/master/1528-shuffle-string) |
@@ -165,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/junaidkm/Leet-Solutions/tree/master/0070-climbing-stairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/junaidkm/Leet-Solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
