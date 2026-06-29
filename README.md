@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/junaidkm/Leet-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/junaidkm/Leet-Solutions/tree/master/1816-truncate-sentence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/junaidkm/Leet-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2129-capitalize-the-title](https://github.com/junaidkm/Leet-Solutions/tree/master/2129-capitalize-the-title) |
 | [2833-furthest-point-from-origin](https://github.com/junaidkm/Leet-Solutions/tree/master/2833-furthest-point-from-origin) |
 ## Prefix Sum
 |  |
