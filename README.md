@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/junaidkm/Leet-Solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/junaidkm/Leet-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/junaidkm/Leet-Solutions/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/junaidkm/Leet-Solutions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/junaidkm/Leet-Solutions/tree/master/0268-missing-number) |
 | [0605-can-place-flowers](https://github.com/junaidkm/Leet-Solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/junaidkm/Leet-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/junaidkm/Leet-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/junaidkm/Leet-Solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/junaidkm/Leet-Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/junaidkm/Leet-Solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/junaidkm/Leet-Solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/junaidkm/Leet-Solutions/tree/master/0367-valid-perfect-square) |
