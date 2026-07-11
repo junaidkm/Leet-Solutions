@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3028-ant-on-the-boundary](https://github.com/junaidkm/Leet-Solutions/tree/master/3028-ant-on-the-boundary) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/junaidkm/Leet-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/junaidkm/Leet-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3925-concatenate-array-with-reverse](https://github.com/junaidkm/Leet-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/junaidkm/Leet-Solutions/tree/master/2974-minimum-number-game) |
 | [3028-ant-on-the-boundary](https://github.com/junaidkm/Leet-Solutions/tree/master/3028-ant-on-the-boundary) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/junaidkm/Leet-Solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3925-concatenate-array-with-reverse](https://github.com/junaidkm/Leet-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
 |  |
 | ------- |
