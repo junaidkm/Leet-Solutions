@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/junaidkm/Leet-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/junaidkm/Leet-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/junaidkm/Leet-Solutions/tree/master/1816-truncate-sentence) |
+| [1920-build-array-from-permutation](https://github.com/junaidkm/Leet-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/junaidkm/Leet-Solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/junaidkm/Leet-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/junaidkm/Leet-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/junaidkm/Leet-Solutions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/junaidkm/Leet-Solutions/tree/master/0657-robot-return-to-origin) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/junaidkm/Leet-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1920-build-array-from-permutation](https://github.com/junaidkm/Leet-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/junaidkm/Leet-Solutions/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/junaidkm/Leet-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/junaidkm/Leet-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
