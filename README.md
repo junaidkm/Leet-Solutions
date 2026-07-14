@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/junaidkm/Leet-Solutions/tree/master/2974-minimum-number-game) |
 | [3028-ant-on-the-boundary](https://github.com/junaidkm/Leet-Solutions/tree/master/3028-ant-on-the-boundary) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/junaidkm/Leet-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/junaidkm/Leet-Solutions/tree/master/3668-restore-finishing-order) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/junaidkm/Leet-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/junaidkm/Leet-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/junaidkm/Leet-Solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/junaidkm/Leet-Solutions/tree/master/0268-missing-number) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/junaidkm/Leet-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [3668-restore-finishing-order](https://github.com/junaidkm/Leet-Solutions/tree/master/3668-restore-finishing-order) |
 ## Math
 |  |
 | ------- |
