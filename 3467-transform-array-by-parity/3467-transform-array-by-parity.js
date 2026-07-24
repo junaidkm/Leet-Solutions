@@ -12,7 +12,5 @@ var transformArray = function(nums) {
         ans.push(0)
     }
     }
-
-
    return ans.sort((a,b)=>a-b)
 };
