@@ -6,8 +6,7 @@ var minElement = function(nums) {
             .toString()
             .split("")
             .reduce((acc, digit) => acc + Number(digit), 0);
-
-        if (sum < min) {
+    if (sum < min) {
             min = sum;
         }
     }
