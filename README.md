@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/junaidkm/Leet-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/junaidkm/Leet-Solutions/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/junaidkm/Leet-Solutions/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/junaidkm/Leet-Solutions/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/junaidkm/Leet-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/junaidkm/Leet-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/junaidkm/Leet-Solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/junaidkm/Leet-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/junaidkm/Leet-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/junaidkm/Leet-Solutions/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/junaidkm/Leet-Solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/junaidkm/Leet-Solutions/tree/master/2706-buy-two-chocolates) |
 | [2974-minimum-number-game](https://github.com/junaidkm/Leet-Solutions/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/junaidkm/Leet-Solutions/tree/master/3467-transform-array-by-parity) |
+| [3731-find-missing-elements](https://github.com/junaidkm/Leet-Solutions/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
