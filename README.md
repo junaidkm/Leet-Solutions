@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/junaidkm/Leet-Solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/junaidkm/Leet-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/junaidkm/Leet-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/junaidkm/Leet-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/junaidkm/Leet-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/junaidkm/Leet-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/junaidkm/Leet-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/junaidkm/Leet-Solutions/tree/master/1952-three-divisors) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/junaidkm/Leet-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2427-number-of-common-factors](https://github.com/junaidkm/Leet-Solutions/tree/master/2427-number-of-common-factors) |
 ## Sorting
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/junaidkm/Leet-Solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/junaidkm/Leet-Solutions/tree/master/0268-missing-number) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/junaidkm/Leet-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Memoization
 |  |
 | ------- |
@@ -224,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/junaidkm/Leet-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+## Backtracking
+|  |
+| ------- |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/junaidkm/Leet-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
