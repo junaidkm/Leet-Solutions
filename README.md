@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/junaidkm/Leet-Solutions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/junaidkm/Leet-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/junaidkm/Leet-Solutions/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/junaidkm/Leet-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1773-count-items-matching-a-rule](https://github.com/junaidkm/Leet-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/junaidkm/Leet-Solutions/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/junaidkm/Leet-Solutions/tree/master/1920-build-array-from-permutation) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/junaidkm/Leet-Solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/junaidkm/Leet-Solutions/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/junaidkm/Leet-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/junaidkm/Leet-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/junaidkm/Leet-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/junaidkm/Leet-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/junaidkm/Leet-Solutions/tree/master/3668-restore-finishing-order) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/junaidkm/Leet-Solutions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/junaidkm/Leet-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/junaidkm/Leet-Solutions/tree/master/1678-goal-parser-interpretation) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/junaidkm/Leet-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1773-count-items-matching-a-rule](https://github.com/junaidkm/Leet-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/junaidkm/Leet-Solutions/tree/master/1816-truncate-sentence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/junaidkm/Leet-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/junaidkm/Leet-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/junaidkm/Leet-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2833-furthest-point-from-origin](https://github.com/junaidkm/Leet-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [3467-transform-array-by-parity](https://github.com/junaidkm/Leet-Solutions/tree/master/3467-transform-array-by-parity) |
 ## Binary Search
@@ -214,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/junaidkm/Leet-Solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/junaidkm/Leet-Solutions/tree/master/0268-missing-number) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/junaidkm/Leet-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/junaidkm/Leet-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Memoization
 |  |
